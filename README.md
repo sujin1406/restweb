@@ -175,6 +175,8 @@ contact.html
 ```
 
 ## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot 2025-12-23 173357" src="https://github.com/user-attachments/assets/21a9adf1-0e7d-4018-b200-e9d6642a071d" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-23 173413" src="https://github.com/user-attachments/assets/21d2b735-cacd-49d5-adfb-07871ca66e8c" />
 
 
 ## RESULT:
